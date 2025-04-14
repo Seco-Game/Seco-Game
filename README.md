@@ -135,11 +135,15 @@ Aqui está um cronograma sugerido para o desenvolvimento do **Seco Game**, divid
 
 ### Modelagem do Sistema
 
-<Inserir diagramas UML, como Casos de Uso, Diagrama de Classes, MER etc.>
+![diagrama](https://github.com/user-attachments/assets/27685532-5907-45a0-b4b9-d50c4e3957f5)
 
 ### Tecnologias Utilizadas
 
-<Listar as linguagens, frameworks, bibliotecas e APIs utilizadas.>
+-  Python
+-  JavaScript
+-  NextJS
+-  FastAPI
+-  SQLite
 
 ### Arquitetura do Sistema
 
