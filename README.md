@@ -24,13 +24,12 @@
 
 **Título do Projeto:** Seco Game
 
-**Cliente:** EcoVida Reciclagem Ltda.
+**Cliente:** Francisco Willami Gomes
 
-**CNPJ/CPF:** 12.345.678/0001-90
+**CNPJ/CPF:** 362.497.074-68
 
-**Contato:** Mariana Silva
-
-**Email do contato:** mariana.silva@ecovida.com.br
+**Contato:** 19 993393411
+**Email do contato:** francisco.gomes@gmail.com
 
 ---
 
